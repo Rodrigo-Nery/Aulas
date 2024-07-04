@@ -1,5 +1,8 @@
 #include <Arduino.h>
 
+#pragma config OSC=HS //Oscilador à cristal externo
+
+
 // put function declarations here:
 int myFunction(int, int);
 
